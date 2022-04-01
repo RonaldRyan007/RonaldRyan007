@@ -1,6 +1,6 @@
 ## Opa, eu sou Ronald Ryan programador e amante de video-games💕
 
-  ✨- Atualmente estud javascript para back-end e C# para desenvolvimento de jogos com Unity e Roblox Studio
+  ✨- Atualmente estudando javascript para back-end e C# para desenvolvimento de jogos com Unity e Roblox Studio
   
   👀- 18 anos
   

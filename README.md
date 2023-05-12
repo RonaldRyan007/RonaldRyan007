@@ -2,7 +2,7 @@
 
   ✨- Atualmente estudando javascript para back-end e C# para desenvolvimento de jogos com Unity e Roblox Studio
   
-  👀- 18 anos
+  👀- 19 anos
   
 
 ## 

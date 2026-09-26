@@ -2,7 +2,7 @@
 
   ✨- Atualmente estudando javascript para back-end e C# para desenvolvimento de jogos com Unity e Unreal Engine
   
-  👀- 19 anos
+  👀- 2 anos
   
 
 ## 
